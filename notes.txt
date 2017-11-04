@@ -1,0 +1,5 @@
+Three letter-input errors:
+
+1. Multiple characters
+2. Non-letters
+3. Repeat letter
